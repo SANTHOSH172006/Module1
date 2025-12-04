@@ -1,4 +1,4 @@
-# EX-1:Conditional Statements in Python: Even or Odd Checker
+# EX-1(A):Conditional Statements in Python: Even or Odd Checker
 
 ## Aim
 
